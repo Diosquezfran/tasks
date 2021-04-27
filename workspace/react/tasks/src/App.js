@@ -59,7 +59,7 @@ class App extends Component {
       <div className="App">
         <nav className="navbar navbar-dark bg-dark">
           <a href="#" className="text-white">
-            Asks
+            Tasks
             <span className="badge badge-pill">
               { this.state.todos.length}
             </span>
